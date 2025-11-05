@@ -1,4 +1,4 @@
-**Project developed during a Rocketseat event using modern technologies
+**Project developed using modern technologies
 to create a robust and efficient API.**
 
 ------------------------------------------------------------------------
